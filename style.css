@@ -1,0 +1,44 @@
+.heading{
+    font-size: 23px;
+    margin:0px;
+    width: 100%;
+    color:aliceblue;
+}
+body{
+    background-size:cover ;
+}
+.note{
+    color:black;
+    font-size:15px;
+    color: aquamarine;
+}
+.speed{
+    float: left;
+}
+img{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 22px;
+    margin: 15px;
+}
+.volume{
+    float: right;
+}
+#volume{
+    font-size: 22px;
+    margin: 15px;
+}
+.play{
+    font-size: 25px;
+    width: 130px;
+}
+#abc{
+    background-color: rgba(0, 0, 0, 0.349);
+}
+canvas{
+    border: 3px solid white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
